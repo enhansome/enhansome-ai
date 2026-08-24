@@ -1,7 +1,2507 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HuggingFace",
+          "description": "HuggingFace HugginFace is a collaboration platform allowing to host and collaborate on unlimited models, datasets and applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 155220641,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:07:06Z",
+            "owner": "huggingface",
+            "repo": "transformers",
+            "stars": 164394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CivitAI",
+          "description": "CivitAI Explore thousands of high-quality Stable Diffusion models, share your AI-generated art, and engage with a vibrant community of creators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 549830413,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T08:40:04Z",
+            "owner": "civitai",
+            "repo": "civitai",
+            "stars": 7232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mistral AI",
+          "description": "Mistral AI Open and portable generative AI for devs and businesses.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 697302510,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-16T15:40:44Z",
+            "owner": "mistralai",
+            "repo": "mistral-inference",
+            "stars": 10830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anthropic",
+          "description": "Anthropic Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 678973052,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-19T20:42:54Z",
+            "owner": "anthropics",
+            "repo": "claude-cookbooks",
+            "stars": 52080
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Groq",
+          "description": "Groq Groq is a modern, open-source, and scalable search and query engine designed for large-scale data sets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 777292580,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-18T18:55:08Z",
+            "owner": "groq",
+            "repo": "groq-api-cookbook",
+            "stars": 1416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI",
+          "description": "OpenAI OpenAI Platform API for accessing new AI models developed by OpenAI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 468576060,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-24T08:40:51Z",
+            "owner": "openai",
+            "repo": "openai-cookbook",
+            "stars": 75520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenRouter",
+          "description": "OpenRouter A unified interface for LLMs. Find the best models & prices for your prompts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 686132938,
+            "language": "Python",
+            "last_commit": "2025-09-06T13:41:32Z",
+            "owner": "OpenRouterArchived",
+            "repo": "openrouter-runner",
+            "stars": 1257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gemini API",
+          "description": "Gemini API Experience Google's largest and most capable AI model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 636693030,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-21T14:17:21Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "generative-ai",
+            "stars": 17620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cohere",
+          "description": "Cohere Cohere provides industry-leading large language models (LLMs) and RAG capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 331452083,
+            "language": "Python",
+            "last_commit": "2026-08-19T10:59:07Z",
+            "owner": "cohere-ai",
+            "repo": "cohere-python",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OctoAI",
+          "description": "OctoAI Build and scale production applications on the latest optimized models and fine tunes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 630661247,
+            "language": "Python",
+            "last_commit": "2023-07-18T06:59:58Z",
+            "owner": "octoml",
+            "repo": "octocloud-templates",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anyscale",
+          "description": "Anyscale Ray is the most popular open source framework for scaling and productionizing AI workloads.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 700646181,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-25T16:47:36Z",
+            "owner": "anyscale",
+            "repo": "endpoint-cookbook",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stability AI",
+          "description": "Stability AI Stability AI Developer Platform Explore the possibilities of generative AI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 656933936,
+            "language": "Python",
+            "last_commit": "2025-12-16T08:36:18Z",
+            "owner": "Stability-AI",
+            "repo": "generative-models",
+            "stars": 27268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lite LLM",
+          "description": "Lite LLM LiteLLM handles loadbalancing, fallbacks and spend tracking across 100+ LLMs. All in the OpenAI format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 671269505,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:13:55Z",
+            "owner": "BerriAI",
+            "repo": "litellm",
+            "stars": 57141
+          }
+        }
+      ],
+      "title": "AI API"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Together AI",
+          "description": "Together AI Build gen AI models with Together AI. Benefit from the fastest and most cost-efficient tools and infra.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624113979,
+            "language": "Python",
+            "last_commit": "2026-08-06T07:24:39Z",
+            "owner": "togethercomputer",
+            "repo": "together-python",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vertex AI",
+          "description": "Vertex AI Vertex AI is a fully-managed, unified AI development platform for building and using generative AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 298017988,
+            "language": "Python",
+            "last_commit": "2026-08-24T09:07:36Z",
+            "owner": "googleapis",
+            "repo": "python-aiplatform",
+            "stars": 904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sagemaker",
+          "description": "Sagemaker Quickly develop generative AI experiences with a diverse set of prebuilt and curated models from OpenAI, Meta and beyond.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 107937815,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-30T22:05:30Z",
+            "owner": "aws",
+            "repo": "amazon-sagemaker-examples",
+            "stars": 10980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure OpenAI",
+          "description": "Azure OpenAI Azure OpenAI Service. Build your own copilot and generative AI applications",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 573341229,
+            "language": null,
+            "last_commit": "2023-11-01T21:23:23Z",
+            "owner": "Azure-Samples",
+            "repo": "azure-ai",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Replicate",
+          "description": "Replicate Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 342728683,
+            "language": "Go",
+            "last_commit": "2026-08-21T22:30:53Z",
+            "owner": "replicate",
+            "repo": "cog",
+            "stars": 9460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paperspace",
+          "description": "Paperspace Build & Run AI/ML Models on NVIDIA H100 GPUs. Develop, train, and deploy AI applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 585628325,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T23:32:19Z",
+            "owner": "Paperspace",
+            "repo": "cli",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bedrock",
+          "description": "Bedrock The easiest way to build and scale generative AI applications with foundation models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 666102450,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-24T14:01:14Z",
+            "owner": "aws-samples",
+            "repo": "amazon-bedrock-workshop",
+            "stars": 2191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Workers AI",
+          "description": "Workers AI Run machine learning models, powered by serverless GPUs, on Cloudflare’s global network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 292673424,
+            "language": "MDX",
+            "last_commit": "2026-08-24T14:20:22Z",
+            "owner": "cloudflare",
+            "repo": "cloudflare-docs",
+            "stars": 5130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scaleway",
+          "description": "Scaleway Discover European sovereign cloud services to scale your AI projects from A to Z.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 388154841,
+            "language": "MDX",
+            "last_commit": "2026-08-24T14:12:26Z",
+            "owner": "scaleway",
+            "repo": "docs-content",
+            "stars": 97
+          }
+        }
+      ],
+      "title": "AI Cloud"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Llama.cpp",
+          "description": "Llama.cpp The main goal of llama.cpp is to run the LLaMA model using 4-bit integer quantization on a MacBook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 612354784,
+            "language": "C++",
+            "last_commit": "2026-08-24T14:21:04Z",
+            "owner": "ggml-org",
+            "repo": "llama.cpp",
+            "stars": 125402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mudler LocalAGI",
+          "description": "Mudler LocalAGI LocalAGI is a small virtual assistant that you can run locally, made by the LocalAI author and powered by it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 671691886,
+            "language": "Go",
+            "last_commit": "2026-08-22T14:33:54Z",
+            "owner": "mudler",
+            "repo": "LocalAGI",
+            "stars": 1958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ollama",
+          "description": "Ollama Ollama is LLMs Backend that allow you to get up and running with large language models locally.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 658928958,
+            "language": "Go",
+            "last_commit": "2026-08-23T18:40:59Z",
+            "owner": "ollama",
+            "repo": "ollama",
+            "stars": 179319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mudler LocalAI",
+          "description": "Mudler LocalAI Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 615869301,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:18:40Z",
+            "owner": "mudler",
+            "repo": "LocalAI",
+            "stars": 48653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kobold cpp",
+          "description": "Kobold cpp KoboldCpp is an easy-to-use AI text-generation software for GGML and GGUF models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 614637892,
+            "language": "C++",
+            "last_commit": "2026-08-24T13:15:21Z",
+            "owner": "LostRuins",
+            "repo": "koboldcpp",
+            "stars": 11510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gpt4all",
+          "description": "gpt4all Open-source large language models that run locally on your CPU and nearly any GPU.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 619959033,
+            "language": "C++",
+            "last_commit": "2025-05-27T20:05:19Z",
+            "owner": "nomic-ai",
+            "repo": "gpt4all",
+            "stars": 77393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kobold cpp Rocm",
+          "description": "Kobold cpp Rocm AI Inferencing at the Edge. A simple one-file way to run various GGML models with KoboldAI's UI with AMD ROCm offloading.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 628089707,
+            "language": "C++",
+            "last_commit": "2026-07-29T14:20:53Z",
+            "owner": "YellowRoseCx",
+            "repo": "koboldcpp-rocm",
+            "stars": 781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text Gen WebUI",
+          "description": "Text Gen WebUI Oobabooga Text Generation WebUI is a Gradio browser interface for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 580642043,
+            "language": "Python",
+            "last_commit": "2026-08-17T17:38:16Z",
+            "owner": "oobabooga",
+            "repo": "textgen",
+            "stars": 47569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vLLM",
+          "description": "vLLM A high-throughput and memory-efficient inference and serving engine for LLMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 599547518,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:19:18Z",
+            "owner": "vllm-project",
+            "repo": "vllm",
+            "stars": 89872
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExLlama",
+          "description": "ExLlama A fast inference library for running LLMs locally on modern consumer-class GPUs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 684980325,
+            "language": "Python",
+            "last_commit": "2026-03-04T13:12:20Z",
+            "owner": "turboderp-org",
+            "repo": "exllamav2",
+            "stars": 4611
+          }
+        }
+      ],
+      "title": "LLMs Backend"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Local AI",
+          "description": "Local AI Local AI is a desktop app for local, private, secured AI experimentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 636927267,
+            "language": "TypeScript",
+            "last_commit": "2023-09-24T04:13:50Z",
+            "owner": "louisgv",
+            "repo": "local.ai",
+            "stars": 719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serge",
+          "description": "Serge Serge is a chat interface crafted with llama.cpp for running GGUF models. No API keys, entirely self-hosted.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 615973283,
+            "language": "Svelte",
+            "last_commit": "2025-11-21T08:07:36Z",
+            "owner": "serge-chat",
+            "repo": "serge",
+            "stars": 5714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Llama2 WebUI",
+          "description": "Llama2 WebUI Run any Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 668513898,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-22T09:50:24Z",
+            "owner": "liltom-eth",
+            "repo": "llama2-webui",
+            "stars": 1937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dialoqbase",
+          "description": "Dialoqbase Dialoqbase is an open-source application designed to facilitate the creation of custom chatbots using a personalized knowledge base.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 649223667,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T07:44:35Z",
+            "owner": "n4ze3m",
+            "repo": "dialoqbase",
+            "stars": 1793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Silly Tavern",
+          "description": "Silly Tavern SillyTavern is a Chat UI that allows you to interact with text generation AIs and chat/roleplay with characters you or the community create.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 599524116,
+            "language": "JavaScript",
+            "last_commit": "2026-08-21T04:35:51Z",
+            "owner": "SillyTavern",
+            "repo": "SillyTavern",
+            "stars": 32600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alpaca Electron",
+          "description": "Alpaca Electron Alpaca Electron is built from the ground-up to be the easiest way to chat with the alpaca AI models. No command line or compiling needed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 618612197,
+            "language": "JavaScript",
+            "last_commit": "2024-04-04T14:52:35Z",
+            "owner": "ItsPi3141",
+            "repo": "alpaca-electron",
+            "stars": 1302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LM Studio",
+          "description": "LM Studio LM Studio is a desktop application for discovering and running Large Language Models locally.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 653959854,
+            "language": "Python",
+            "last_commit": "2024-08-01T00:56:35Z",
+            "owner": "lmstudio-ai",
+            "repo": "model-catalog",
+            "stars": 802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lobe Chat",
+          "description": "Lobe Chat Lobe Chat is an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 643445235,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:19:17Z",
+            "owner": "lobehub",
+            "repo": "lobehub",
+            "stars": 81967
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibreChat",
+          "description": "LibreChat LibreChat brings together the future of assistant AIs with the revolutionary technology of OpenAI's ChatGPT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 600596928,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:16:59Z",
+            "owner": "danny-avila",
+            "repo": "LibreChat",
+            "stars": 42406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maid",
+          "description": "Maid Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama models remotely.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 707547169,
+            "language": "TypeScript",
+            "last_commit": "2026-04-26T23:09:10Z",
+            "owner": "danemadsen",
+            "repo": "maid",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NextPy",
+          "description": "NextPy NextPy is a Pythonic Web App framework For Humans & LLMs, Simple like Streamlit + Fast and Flexible like Next.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 675660259,
+            "language": "Python",
+            "last_commit": "2024-05-01T09:46:55Z",
+            "owner": "dot-agent",
+            "repo": "nextpy",
+            "stars": 2348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tavern AI",
+          "description": "Tavern AI TavernAI is an atmospheric frontend for chat and storywriting, compatible with many backends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1271548133,
+            "language": null,
+            "last_commit": "2026-08-24T07:51:28Z",
+            "owner": "TavernAI",
+            "repo": "TavernAI",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bionic GPT",
+          "description": "Bionic GPT BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 663396489,
+            "language": "Rust",
+            "last_commit": "2026-08-24T12:42:26Z",
+            "owner": "bionic-gpt",
+            "repo": "bionic-gpt",
+            "stars": 2355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anse",
+          "description": "Anse Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633091774,
+            "language": "TypeScript",
+            "last_commit": "2025-05-12T02:21:03Z",
+            "owner": "anse-app",
+            "repo": "anse",
+            "stars": 1972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShellGPT",
+          "description": "ShellGPT A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 590604203,
+            "language": "Python",
+            "last_commit": "2026-07-02T06:03:01Z",
+            "owner": "TheR1D",
+            "repo": "shell_gpt",
+            "stars": 12255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JanAI",
+          "description": "JanAI Open-source ChatGPT alternative that runs 100% offline on your computer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 679506386,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:08:18Z",
+            "owner": "janhq",
+            "repo": "jan",
+            "stars": 44130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Noi",
+          "description": "Noi Noi is an AI-enhanced, customizable browser designed to streamline your digital experience",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 705574656,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T16:42:55Z",
+            "owner": "lencx",
+            "repo": "Noi",
+            "stars": 9019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open WebUI",
+          "description": "Open WebUI Open WebUI is an extensible, feature-rich, and user-friendly self-hosted WebUI designed to operate entirely offline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 701547123,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:36:44Z",
+            "owner": "open-webui",
+            "repo": "open-webui",
+            "stars": 149762
+          }
+        }
+      ],
+      "title": "LLMs ChatUI"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fooocus",
+          "description": "Fooocus Fooocus is an image generating software (based on Gradio). Fooocus is a rethinking of Stable Diffusion and Midjourney’s designs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 676676006,
+            "language": "Python",
+            "last_commit": "2025-12-01T19:17:07Z",
+            "owner": "lllyasviel",
+            "repo": "Fooocus",
+            "stars": 52507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Krita AI",
+          "description": "Krita AI Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 686161611,
+            "language": "Python",
+            "last_commit": "2026-08-23T11:02:29Z",
+            "owner": "Acly",
+            "repo": "krita-ai-diffusion",
+            "stars": 10500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoltaML",
+          "description": "VoltaML Volta ML is Beautiful and Easy to use a Stable Diffusion WebUI with an API accelerated by AITemplate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 565658766,
+            "language": "Python",
+            "last_commit": "2024-06-19T19:24:48Z",
+            "owner": "VoltaML",
+            "repo": "voltaML-fast-stable-diffusion",
+            "stars": 998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InvokeAI",
+          "description": "InvokeAI InvokeAI is a creative engine for Stable Diffusion models, empowering people to generate and create visual media using the latest AI-driven technologies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 525592995,
+            "language": "Python",
+            "last_commit": "2026-08-22T23:25:08Z",
+            "owner": "invoke-ai",
+            "repo": "InvokeAI",
+            "stars": 27963
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SHARK",
+          "description": "SHARK Shark is an Stable Diffusion Backend optimised for Rocm and AMD GPUs that you can use with Blender and Kobold.cpp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 466309974,
+            "language": "Python",
+            "last_commit": "2025-12-15T05:40:50Z",
+            "owner": "nod-ai",
+            "repo": "AMD-SHARK-Studio",
+            "stars": 1451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Face Fusion",
+          "description": "Face Fusion Face Fusion is the next generation face swapper and enhancer that use Stable Diffusion as backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 679869950,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:46:25Z",
+            "owner": "facefusion",
+            "repo": "facefusion",
+            "stars": 29675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stable Studio",
+          "description": "Stable Studio StableStudio is Stability AI’s official open-source variant of DreamStudio. It is a web-based application that allows users to create and edit generated images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 631081758,
+            "language": "TypeScript",
+            "last_commit": "2024-04-30T20:05:06Z",
+            "owner": "Stability-AI",
+            "repo": "StableStudio",
+            "stars": 9048
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SD Next",
+          "description": "SD Next SD Next is a Stable Diffusion implementation with advanced features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 581913613,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:58:02Z",
+            "owner": "vladmandic",
+            "repo": "sdnext",
+            "stars": 7316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fooocus MRE",
+          "description": "Fooocus MRE Fooocus-MRE is an image generating software (based on Gradio), an enhanced variant of the original Fooocus dedicated for a bit more advanced users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 677828148,
+            "language": "Python",
+            "last_commit": "2026-01-16T19:09:31Z",
+            "owner": "MoonRide303",
+            "repo": "Fooocus-MRE",
+            "stars": 982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stability Matrix",
+          "description": "Stability Matrix Stability Matrix is a Multi-Platform Package Manager and Inference UI for Stable Diffusion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 652941996,
+            "language": "C#",
+            "last_commit": "2026-08-23T21:35:28Z",
+            "owner": "LykosAI",
+            "repo": "StabilityMatrix",
+            "stars": 8670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A1111 WebUI",
+          "description": "A1111 WebUI Stable Diffusion Web UI is a Gradio browser interface for the Generative AI model Stable Diffusion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 527591471,
+            "language": "Python",
+            "last_commit": "2026-03-02T07:00:53Z",
+            "owner": "AUTOMATIC1111",
+            "repo": "stable-diffusion-webui",
+            "stars": 164632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Comfy UI",
+          "description": "Comfy UI ComfyUI is a stable diffusion GUI and backend that let you design and execute advanced stable diffusion pipelines using a graph/nodes/flowchart based interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 589831718,
+            "language": "Python",
+            "last_commit": "2026-08-24T10:03:19Z",
+            "owner": "Comfy-Org",
+            "repo": "ComfyUI",
+            "stars": 129720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImaginAIry",
+          "description": "ImaginAIry Pythonic AI generation of images and videos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 535509546,
+            "language": "Python",
+            "last_commit": "2026-02-24T23:59:03Z",
+            "owner": "brycedrennan",
+            "repo": "imaginAIry",
+            "stars": 8179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Riffusion App",
+          "description": "Riffusion App Riffusion is an app for real-time music generation with stable diffusion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 568517086,
+            "language": "TypeScript",
+            "last_commit": "2024-07-22T18:01:37Z",
+            "owner": "riffusion",
+            "repo": "riffusion-app-hobby",
+            "stars": 2677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SlingRING",
+          "description": "SlingRING SlingRING is an open-source web application designed to streamline and simplify controlling and accessing various AI applications on your local system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 725671695,
+            "language": "Python",
+            "last_commit": "2023-12-26T15:35:25Z",
+            "owner": "Blizaine",
+            "repo": "SlingRING",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dreamfusion",
+          "description": "Dreamfusion Stable Dreamfusion is a pytorch implementation of the text-to-3D model Dreamfusion, powered by the Stable Diffusion text-to-2D model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 546476703,
+            "language": "Python",
+            "last_commit": "2023-12-10T23:17:27Z",
+            "owner": "ashawkey",
+            "repo": "stable-dreamfusion",
+            "stars": 8854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Llama Cleaner",
+          "description": "Llama Cleaner Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace any thing on your pictures.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 428292281,
+            "language": "Python",
+            "last_commit": "2025-04-29T02:13:17Z",
+            "owner": "Sanster",
+            "repo": "IOPaint",
+            "stars": 23348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Three Studio",
+          "description": "Three Studio Threestudio is an unified framework for 3D content creation from text prompts, single images, and few-shot images, by lifting 2D text-to-image generation models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624336501,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-16T06:11:15Z",
+            "owner": "threestudio-project",
+            "repo": "threestudio",
+            "stars": 7045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dream Textures",
+          "description": "Dream Textures Dream Textures let you create textures, concept art, background assets, and more with a simple text prompt on Blender.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 534330590,
+            "language": "Python",
+            "last_commit": "2024-08-26T02:23:11Z",
+            "owner": "carson-katri",
+            "repo": "dream-textures",
+            "stars": 8195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhotoMaker",
+          "description": "PhotoMaker PhotoMaker let you customize Realistic Human Photos via Stacked ID Embedding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 728086859,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-10-31T09:35:15Z",
+            "owner": "TencentARC",
+            "repo": "PhotoMaker",
+            "stars": 10089
+          }
+        }
+      ],
+      "title": "Stable Diffusion"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Refact",
+          "description": "Refact Refact is an open-source AI coding assistant with blazing-fast code completion, powerful code improvement tools, and chat.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 629849791,
+            "language": "Rust",
+            "last_commit": "2026-05-30T09:42:53Z",
+            "owner": "smallcloudai",
+            "repo": "refact",
+            "stars": 3540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draw a UI",
+          "description": "Draw a UI Draw a mockup and generate html for it using AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 715427466,
+            "language": "TypeScript",
+            "last_commit": "2025-07-26T17:12:18Z",
+            "owner": "SawyerHood",
+            "repo": "draw-a-ui",
+            "stars": 13582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Continue",
+          "description": "Continue Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 644686905,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T09:25:36Z",
+            "owner": "continuedev",
+            "repo": "continue",
+            "stars": 35609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sweep AI",
+          "description": "Sweep AI Sweep is an AI junior developer that turns bugs and feature requests into code changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 653574784,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-18T06:10:59Z",
+            "owner": "sweepai",
+            "repo": "sweep",
+            "stars": 7704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aider",
+          "description": "Aider Aider is a command line tool that lets you pair program with GPT-3.5/GPT-4, to edit code stored in your local git repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 638629097,
+            "language": "Python",
+            "last_commit": "2026-05-22T14:02:20Z",
+            "owner": "Aider-AI",
+            "repo": "aider",
+            "stars": 48453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoPR",
+          "description": "AutoPR AutoPR provides an automated pull request workflow. It's designed to help automate tasks in a pull request process.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 615692917,
+            "language": "Python",
+            "last_commit": "2026-03-05T23:34:26Z",
+            "owner": "irgolic",
+            "repo": "AutoPR",
+            "stars": 1371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bloop",
+          "description": "Bloop bloop is ChatGPT for your code. Ask questions in natural language, search for code and generate patches using your existing codebase as context.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 576642715,
+            "language": "Rust",
+            "last_commit": "2024-12-04T17:39:21Z",
+            "owner": "BloopAI",
+            "repo": "bloop",
+            "stars": 9499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatDev",
+          "description": "ChatDev ChatDev stands as a virtual software company that operates through various intelligent agents holding different roles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 683892956,
+            "language": "Python",
+            "last_commit": "2026-07-24T08:01:27Z",
+            "owner": "OpenBMB",
+            "repo": "ChatDev",
+            "stars": 34113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cody Assistant",
+          "description": "Cody Assistant Cody is your AI Coding Assistant designed to let you interactively query your codebase using natural language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 669551037,
+            "language": "Python",
+            "last_commit": "2025-03-11T22:24:29Z",
+            "owner": "ajhous44",
+            "repo": "cody",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT Engineer",
+          "description": "GPT Engineer Specify what you want it to build, the AI asks for clarification, and then builds it.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 634224458,
+            "language": "Python",
+            "last_commit": "2025-05-14T10:15:10Z",
+            "owner": "AntonOsika",
+            "repo": "gpt-engineer",
+            "stars": 55122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT Migrate",
+          "description": "GPT Migrate Easily migrate your codebase from one framework or language to another.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 658136967,
+            "language": "Python",
+            "last_commit": "2024-09-17T23:13:51Z",
+            "owner": "joshpxyne",
+            "repo": "gpt-migrate",
+            "stars": 6979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT Pilot",
+          "description": "GPT Pilot GPT Pilot is a true AI developer that writes code, debugs it, talks to you when it needs help, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 679237742,
+            "language": "Python",
+            "last_commit": "2026-06-18T18:38:25Z",
+            "owner": "Pythagora-io",
+            "repo": "gpt-pilot",
+            "stars": 33686
+          }
+        }
+      ],
+      "title": "Code Assistant"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pinokio",
+          "description": "pinokio Pinokio is a browser that lets you install, run, and automate any AI applications and models automatically and effortlessly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 664226598,
+            "language": "JavaScript",
+            "last_commit": "2026-07-22T06:03:02Z",
+            "owner": "pinokiocomputer",
+            "repo": "pinokio",
+            "stars": 7869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentGPT",
+          "description": "AgentGPT AgentGPT allows you to configure and deploy Autonomous AI agents. Name your own custom AI and have it embark on any goal imaginable.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 624681066,
+            "language": "TypeScript",
+            "last_commit": "2025-04-29T01:19:32Z",
+            "owner": "reworkd",
+            "repo": "AgentGPT",
+            "stars": 36304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperAGI",
+          "description": "SuperAGI SuperAGI is a dev-first open source autonomous AI agent framework enabling developers to build, manage & run useful autonomous agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 640182997,
+            "language": "Python",
+            "last_commit": "2025-01-22T22:14:07Z",
+            "owner": "TransformerOptimus",
+            "repo": "SuperAGI",
+            "stars": 17660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LocalGPT",
+          "description": "LocalGPT Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 644715009,
+            "language": "Python",
+            "last_commit": "2026-08-21T01:31:02Z",
+            "owner": "PromtEngineer",
+            "repo": "localGPT",
+            "stars": 22209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentlabs",
+          "description": "Agentlabs Open-source universal frontend for your AI Agents that you can control with a realtime bidirectional streaming SDK from your backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 688669711,
+            "language": "TypeScript",
+            "last_commit": "2025-02-06T11:42:40Z",
+            "owner": "agentlabs-dev",
+            "repo": "agentlabs",
+            "stars": 556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoGPT",
+          "description": "AutoGPT AutoGPT is the vision of accessible AI for everyone, to use and to build on. It provide the tools, so that you can focus on what matters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 614765452,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:56:37Z",
+            "owner": "Significant-Gravitas",
+            "repo": "AutoGPT",
+            "stars": 186849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Baby AGI",
+          "description": "Baby AGI BabyAGI is an AI-powered task management system using OpenAI and vector databases to create, prioritize, and execute tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 622737738,
+            "language": "Python",
+            "last_commit": "2026-01-31T05:05:45Z",
+            "owner": "yoheinakajima",
+            "repo": "babyagi",
+            "stars": 22356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crew AI",
+          "description": "Crew AI Crew AI is a cutting-edge framework for orchestrating role-playing, autonomous AI agents for tackling complex tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 710601088,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:16:05Z",
+            "owner": "crewAIInc",
+            "repo": "crewAI",
+            "stars": 57553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adala",
+          "description": "Adala Adala offers a robust framework for implementing agents specialized in data processing, with an emphasis on diverse data labeling tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 685048844,
+            "language": "Python",
+            "last_commit": "2026-08-09T08:57:59Z",
+            "owner": "HumanSignal",
+            "repo": "Adala",
+            "stars": 1622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent4Rec",
+          "description": "Agent4Rec Agent4Rec, a recommender system simulator with 1,000 LLM-empowered generative agents initialized from the MovieLens-1M dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 703832941,
+            "language": "Python",
+            "last_commit": "2024-07-07T05:45:01Z",
+            "owner": "LehengTHU",
+            "repo": "Agent4Rec",
+            "stars": 498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentForge",
+          "description": "AgentForge AgentForge is a low-code framework tailored for the rapid development, testing, and iteration of AI-powered autonomous agents and Cognitive Architectures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625297895,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:45:31Z",
+            "owner": "DataBassGit",
+            "repo": "AgentForge",
+            "stars": 843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Waves Agents",
+          "description": "AI Waves Agents AI Waves Agents is an open-source library/framework for building autonomous language agents by simply filling in a config file in natural language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 667645956,
+            "language": "Python",
+            "last_commit": "2024-09-26T03:12:53Z",
+            "owner": "aiwaves-cn",
+            "repo": "agents",
+            "stars": 5957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentVerse",
+          "description": "AgentVerse AgentVerse is designed to facilitate the deployment of multiple LLM-based agents in various applications providing two frameworks: task-solving and simulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 636922549,
+            "language": "JavaScript",
+            "last_commit": "2024-09-09T05:47:44Z",
+            "owner": "OpenBMB",
+            "repo": "AgentVerse",
+            "stars": 5114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoGen",
+          "description": "AutoGen AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 680120071,
+            "language": "Python",
+            "last_commit": "2026-04-15T11:59:09Z",
+            "owner": "microsoft",
+            "repo": "autogen",
+            "stars": 60609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BambooAI",
+          "description": "BambooAI BambooAI is a lightweight library that leverages Language Models (LLMs) to enable natural language interactions, allowing you to source and converse with data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 637253688,
+            "language": "Python",
+            "last_commit": "2026-06-03T04:53:42Z",
+            "owner": "pgalko",
+            "repo": "BambooAI",
+            "stars": 785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BeeBot",
+          "description": "BeeBot BeeBot is your personal worker bee, an Autonomous AI Assistant designed to perform a wide range of practical tasks autonomously.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 665298172,
+            "language": "Python",
+            "last_commit": "2023-10-22T23:25:16Z",
+            "owner": "erik-megarad",
+            "repo": "beebot",
+            "stars": 452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BondAI",
+          "description": "BondAI BondAI is an open source, AI-powered assistant with a lightweight, versatile API for seamless integration into your own applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 666903272,
+            "language": "Python",
+            "last_commit": "2024-01-14T02:06:07Z",
+            "owner": "krohling",
+            "repo": "bondai",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Camel AI Agent",
+          "description": "Camel AI Agent CAMEL AI: Communicative Agents for “Mind” Exploration of Large Language Model Society.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 615510678,
+            "language": "Python",
+            "last_commit": "2026-08-21T11:36:45Z",
+            "owner": "camel-ai",
+            "repo": "camel",
+            "stars": 17631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GenIA",
+          "description": "GenIA Meet your new AI platform engineering team member, it is able to work alongside you in your production environment, executing tasks on your behalf.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 670350959,
+            "language": "Python",
+            "last_commit": "2023-11-22T15:25:21Z",
+            "owner": "genia-dev",
+            "repo": "GeniA",
+            "stars": 409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT Researcher",
+          "description": "GPT Researcher GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 639835356,
+            "language": "Python",
+            "last_commit": "2026-08-24T06:58:46Z",
+            "owner": "assafelovic",
+            "repo": "gpt-researcher",
+            "stars": 29124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IX Platform",
+          "description": "IX Platform IX is a platform for designing and deploying autonomous and semi-autonomous LLM powered agents and workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 623760713,
+            "language": "Python",
+            "last_commit": "2026-01-01T05:38:33Z",
+            "owner": "kreneskyp",
+            "repo": "ix",
+            "stars": 1044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jarvis",
+          "description": "Jarvis The mission of JARVIS is to explore artificial general intelligence (AGI) and deliver cutting-edge research to the whole community.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 621118467,
+            "language": "Python",
+            "last_commit": "2025-07-29T13:44:13Z",
+            "owner": "microsoft",
+            "repo": "JARVIS",
+            "stars": 25204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MemGPT",
+          "description": "MemGPT MemGPT is a system that intelligently manages different memory tiers in LLMs in order to effectively provide context within the LLM's limited context window.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 703411624,
+            "language": null,
+            "last_commit": "2026-08-23T19:05:43Z",
+            "owner": "letta-ai",
+            "repo": "letta",
+            "stars": 24401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaGPT",
+          "description": "MetaGPT MetaGPT is a Multi-Agent Framework. Assign different roles to GPTs to form a collaborative software entity for complex tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 660551251,
+            "language": "Python",
+            "last_commit": "2026-01-21T10:12:33Z",
+            "owner": "FoundationAgents",
+            "repo": "MetaGPT",
+            "stars": 69996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MiniAGI",
+          "description": "MiniAGI MiniAGI is a simple autonomous agent compatible with GPT-3.5-Turbo and GPT-4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627744002,
+            "language": "Python",
+            "last_commit": "2023-06-14T05:47:59Z",
+            "owner": "muellerberndt",
+            "repo": "mini-agi",
+            "stars": 2900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAgents",
+          "description": "OpenAgents OpenAgents is an open platform for using and hosting language agents in the wild of everyday life.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 676028871,
+            "language": "Python",
+            "last_commit": "2024-11-18T09:39:29Z",
+            "owner": "xlang-ai",
+            "repo": "OpenAgents",
+            "stars": 4858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Interpreter",
+          "description": "Open Interpreter Let language models run code on your computer. An open-source, locally running implementation of OpenAI's Code Interpreter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 666299222,
+            "language": "Rust",
+            "last_commit": "2026-08-20T03:35:38Z",
+            "owner": "openinterpreter",
+            "repo": "openinterpreter",
+            "stars": 68131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PromethAI Backend",
+          "description": "PromethAI Backend PromethAI is a Python AGI project that recommends choices based on a user's goals and preferences and can modify its recommendations based on user feedback.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 641081949,
+            "language": "Python",
+            "last_commit": "2024-11-05T16:35:08Z",
+            "owner": "topoteretes",
+            "repo": "PromethAI-Backend",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperAgent",
+          "description": "SuperAgent SuperAgent is an open-source agent framework that enables any developer to integrate production-ready AI Assistants into any application in a matter of minutes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 639096757,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T11:44:12Z",
+            "owner": "superagent-ai",
+            "repo": "superagent",
+            "stars": 6717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "X Agent",
+          "description": "X Agent XAgent is an open-source experimental Large Language Model (LLM) driven autonomous agent that can automatically solve various tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 705460972,
+            "language": "Python",
+            "last_commit": "2026-07-31T03:30:54Z",
+            "owner": "OpenBMB",
+            "repo": "XAgent",
+            "stars": 8543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Llama Index",
+          "description": "Llama Index LlamaIndex is a data framework for LLM-based applications to ingest, structure, and access private or domain-specific data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 560704231,
+            "language": "Python",
+            "last_commit": "2026-08-20T15:46:41Z",
+            "owner": "run-llama",
+            "repo": "llama_index",
+            "stars": 51839
+          }
+        }
+      ],
+      "title": "Autonomous Agents"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Anything LLM",
+          "description": "Anything LLM Open-source ChatGPT equivalent experience for both open and close source LLMs, embedders, and vector databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 649170660,
+            "language": "JavaScript",
+            "last_commit": "2026-08-22T03:50:06Z",
+            "owner": "Mintplex-Labs",
+            "repo": "anything-llm",
+            "stars": 65139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docs GPT",
+          "description": "Docs GPT DocsGPT is a cutting-edge open-source solution that streamlines the process of finding information in the project documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 596516907,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:56:05Z",
+            "owner": "arc53",
+            "repo": "DocsGPT",
+            "stars": 18221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quivr",
+          "description": "Quivr Quivr, your second brain, utilizes the power of GenerativeAI to be your personal assistant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 640079149,
+            "language": "Python",
+            "last_commit": "2025-07-09T12:55:23Z",
+            "owner": "QuivrHQ",
+            "repo": "quivr",
+            "stars": 39418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chaindesk",
+          "description": "Chaindesk The no-code platform for building custom LLM Agents that provides a solution to quickly setup a semantic search system over your personal data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 619814004,
+            "language": null,
+            "last_commit": "2024-06-17T12:36:06Z",
+            "owner": "gmpetrov",
+            "repo": "databerry",
+            "stars": 2967
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solid GPT",
+          "description": "Solid GPT Chat with your code repository, ask repository-level code questions, and discuss your requirements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 675952364,
+            "language": "Python",
+            "last_commit": "2025-01-12T04:58:38Z",
+            "owner": "AI-Citizen",
+            "repo": "SolidGPT",
+            "stars": 1795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Examor",
+          "description": "Examor Examor is a web application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 664655564,
+            "language": "TypeScript",
+            "last_commit": "2025-06-18T01:44:32Z",
+            "owner": "codeacme17",
+            "repo": "examor",
+            "stars": 1070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Second Brain",
+          "description": "Second Brain Second Brain AI Agents offer a way to seamlessly index, search and interact with all your contents, markdown files, videos, web pages, and PDFs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 655253031,
+            "language": "Python",
+            "last_commit": "2026-04-05T10:04:37Z",
+            "owner": "flepied",
+            "repo": "second-brain-agent",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gerev",
+          "description": "Gerev Gerev is an AI-powered enterprise search engine that let you find any conversation, doc, or internal page in seconds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 609769771,
+            "language": "Python",
+            "last_commit": "2023-12-29T08:20:26Z",
+            "owner": "GerevAI",
+            "repo": "gerev",
+            "stars": 2808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PrivateGPT",
+          "description": "PrivateGPT PrivateGPT is a production-ready AI project that allows you to ask questions about your documents using the power of Large Language Models (LLMs).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 635240594,
+            "language": "Python",
+            "last_commit": "2026-08-21T13:16:05Z",
+            "owner": "zylon-ai",
+            "repo": "private-gpt",
+            "stars": 57460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TxtAI",
+          "description": "TxtAI txtAI is an all-in-one embeddings database for semantic search, LLM orchestration and language model workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 286301447,
+            "language": "Python",
+            "last_commit": "2026-08-23T23:15:58Z",
+            "owner": "neuml",
+            "repo": "txtai",
+            "stars": 12903
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swirl",
+          "description": "Swirl Swirl is an open source software that simultaneously searches multiple content sources and returns AI ranked results.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 479199191,
+            "language": "Python",
+            "last_commit": "2026-08-17T20:30:01Z",
+            "owner": "swirlai",
+            "repo": "swirl-search",
+            "stars": 3042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Danswer",
+          "description": "Danswer Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633262635,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:20:08Z",
+            "owner": "onyx-dot-app",
+            "repo": "onyx",
+            "stars": 31743
+          }
+        }
+      ],
+      "title": "Knowledge Manager"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AlpacaEval",
+          "description": "AlpacaEval An automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 645270986,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-08-09T07:23:36Z",
+            "owner": "tatsu-lab",
+            "repo": "alpaca_eval",
+            "stars": 2012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FastChat",
+          "description": "FastChat FastChat is a benchmark platform for large language models (LLMs) that features anonymous, randomized battles in a crowdsourced manner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 615882673,
+            "language": "Python",
+            "last_commit": "2026-05-01T00:25:53Z",
+            "owner": "lm-sys",
+            "repo": "FastChat",
+            "stars": 39524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BigCode Eval",
+          "description": "BigCode Eval BigCode Evaluation Harness is a framework for the evaluation of autoregressive code generation language models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 522950827,
+            "language": "Python",
+            "last_commit": "2025-07-22T13:18:09Z",
+            "owner": "bigcode-project",
+            "repo": "bigcode-evaluation-harness",
+            "stars": 1057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Promptfoo",
+          "description": "Promptfoo Test your prompts, models, RAGs. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633927609,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T05:56:25Z",
+            "owner": "promptfoo",
+            "repo": "promptfoo",
+            "stars": 24526
+          }
+        }
+      ],
+      "title": "LLMs Eval"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unsloth",
+          "description": "Unsloth Unsloth is an open-source framework which allow you to unslow finetuning for Large Language Models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 725205304,
+            "language": "Python",
+            "last_commit": "2026-08-24T10:17:48Z",
+            "owner": "unslothai",
+            "repo": "unsloth",
+            "stars": 74584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pezzo",
+          "description": "Pezzo Pezzo is an open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, observability and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 631379545,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T21:40:31Z",
+            "owner": "pezzolabs",
+            "repo": "pezzo",
+            "stars": 3266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ludwig",
+          "description": "Ludwig Ludwig is a low-code framework for building custom AI models like LLMs and other deep neural networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 163346054,
+            "language": "Python",
+            "last_commit": "2026-08-17T21:52:31Z",
+            "owner": "ludwig-ai",
+            "repo": "ludwig",
+            "stars": 11747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Langdroid",
+          "description": "Langdroid Langroid is an intuitive, lightweight, extensible and principled Python framework to easily build LLM-powered applications, from ex-CMU and UW-Madison researchers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 628729877,
+            "language": "Python",
+            "last_commit": "2026-08-23T23:24:57Z",
+            "owner": "langroid",
+            "repo": "langroid",
+            "stars": 4100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Langchain",
+          "description": "Langchain Langchain is aimed at assisting in the development of apps merging both LLMs and other sources of knowledge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 552661142,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:18:11Z",
+            "owner": "langchain-ai",
+            "repo": "langchain",
+            "stars": 144894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLMware",
+          "description": "LLMware Llmware is a unified framework for developing LLM-based application patterns including Retrieval Augmented Generation (RAG).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 698288684,
+            "language": "Python",
+            "last_commit": "2026-05-17T13:53:37Z",
+            "owner": "llmware-ai",
+            "repo": "llmware",
+            "stars": 14849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM App",
+          "description": "LLM App LLM App is a production framework for building and serving AI applications and LLM-enabled real-time data pipelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 668195240,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-05T17:59:07Z",
+            "owner": "pathwaycom",
+            "repo": "llm-app",
+            "stars": 58994
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dify",
+          "description": "Dify Dify allows you to deploy your own version of Assistants API and GPTs, based on any LLMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 626805178,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:14:06Z",
+            "owner": "langgenius",
+            "repo": "dify",
+            "stars": 153365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeumAI",
+          "description": "NeumAI Neum AI is a data platform that helps developers leverage their data to contextualize Large Language Models through Retrieval Augmented Generation (RAG).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 691317919,
+            "language": "Python",
+            "last_commit": "2024-01-15T23:00:58Z",
+            "owner": "NeumTry",
+            "repo": "NeumAI",
+            "stars": 867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DB-GPT",
+          "description": "DB-GPT DB-GPT is an open-source framework designed for the realm of large language models (LLMs) within the database field.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627480054,
+            "language": "Python",
+            "last_commit": "2026-08-21T01:55:03Z",
+            "owner": "eosphoros-ai",
+            "repo": "DB-GPT",
+            "stars": 19789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flowise",
+          "description": "Flowise Flowise is a Drag & Drop UI to build your customized LLM automation flow.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 621803253,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T12:38:19Z",
+            "owner": "FlowiseAI",
+            "repo": "Flowise",
+            "stars": 55389
+          }
+        }
+      ],
+      "title": "LLMs Framework"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Colossal AI",
+          "description": "Colossal AI Maximize the runtime performance of your large neural networks with distributed techniques of Colossal-AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 422274596,
+            "language": "Python",
+            "last_commit": "2026-08-17T17:57:12Z",
+            "owner": "hpcaitech",
+            "repo": "ColossalAI",
+            "stars": 41438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Megatron LM",
+          "description": "Megatron LM Megatron is a large, powerful transformer developed by the Applied Deep Learning Research team at NVIDIA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 176982014,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:53:28Z",
+            "owner": "NVIDIA",
+            "repo": "Megatron-LM",
+            "stars": 17561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepSpeed",
+          "description": "DeepSpeed DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 235860204,
+            "language": "Python",
+            "last_commit": "2026-08-24T10:36:36Z",
+            "owner": "deepspeedai",
+            "repo": "DeepSpeed",
+            "stars": 42985
+          }
+        }
+      ],
+      "title": "LLMs Training"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MindsDB",
+          "description": "MindsDB MindsDB's AI SQL Server enables developers to build AI tools that need access to real-time data to perform their tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143328315,
+            "language": "Makefile",
+            "last_commit": "2026-08-21T23:50:38Z",
+            "owner": "mindsdb",
+            "repo": "mindshub",
+            "stars": 39640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weaviate",
+          "description": "Weaviate Weaviate is an open source vector database that is robust, scalable, cloud-native, and fast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55072677,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:18:38Z",
+            "owner": "weaviate",
+            "repo": "weaviate",
+            "stars": 16749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Milvus",
+          "description": "Milvus Milvus is an open-source vector database built to power embedding similarity search and AI applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208728772,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:35:22Z",
+            "owner": "milvus-io",
+            "repo": "milvus",
+            "stars": 45769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qdrant",
+          "description": "Qdrant Qdrant is a vector similarity search engine and vector database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 268163609,
+            "language": "Rust",
+            "last_commit": "2026-08-24T13:23:45Z",
+            "owner": "qdrant",
+            "repo": "qdrant",
+            "stars": 34157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deeplake",
+          "description": "Deeplake Deep Lake is a Database for AI powered by a storage format optimized for deep-learning applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201403923,
+            "language": "C++",
+            "last_commit": "2026-05-21T15:28:00Z",
+            "owner": "activeloopai",
+            "repo": "deeplake",
+            "stars": 9227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chroma",
+          "description": "Chroma Chroma is the open-source embedding database. Chroma makes it easy to build LLM apps by making knowledge, facts, and skills pluggable for LLMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 546206616,
+            "language": "Rust",
+            "last_commit": "2026-08-22T06:36:05Z",
+            "owner": "chroma-core",
+            "repo": "chroma",
+            "stars": 29133
+          }
+        }
+      ],
+      "title": "Vector Database"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Microsoft AI Lab",
+          "description": "Microsoft AI Lab AI Lab helps our large fast-growing community of developers get started on AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142076747,
+            "language": "C#",
+            "last_commit": "2024-06-26T19:42:37Z",
+            "owner": "microsoft",
+            "repo": "ailab",
+            "stars": 7853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ML Course Notes",
+          "description": "ML Course Notes A place to collaborate and share lecture notes on all topics related to machine learning, NLP, and AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 470962649,
+            "language": null,
+            "last_commit": "2024-05-16T18:51:33Z",
+            "owner": "dair-ai",
+            "repo": "ML-Course-Notes",
+            "stars": 6646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PE Guide",
+          "description": "PE Guide Prompt Engineering Guide is Github repo containing guides, papers, lecture, notebooks and resources for prompt engineering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 579082810,
+            "language": "MDX",
+            "last_commit": "2026-03-11T20:09:13Z",
+            "owner": "dair-ai",
+            "repo": "Prompt-Engineering-Guide",
+            "stars": 77750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GenAI Lessons",
+          "description": "GenAI Lessons A 12 Lesson course teaching everything you need to know to start building Generative AI applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 655806940,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-20T03:43:12Z",
+            "owner": "microsoft",
+            "repo": "generative-ai-for-beginners",
+            "stars": 118461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ML Youtube",
+          "description": "ML Youtube ML Youtube Courses is a Github repo indexing and organizing some of the best and most recent machine learning courses available on YouTube.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 380191749,
+            "language": null,
+            "last_commit": "2024-01-22T15:52:28Z",
+            "owner": "dair-ai",
+            "repo": "ML-YouTube-Courses",
+            "stars": 17385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ML Papers",
+          "description": "ML Papers ML Papers Explained is a Github repo with explanations of the key concepts in Machine Learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 588297294,
+            "language": null,
+            "last_commit": "2025-06-30T03:35:10Z",
+            "owner": "dair-ai",
+            "repo": "ML-Papers-Explained",
+            "stars": 8595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM Course",
+          "description": "LLM Course Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 655099582,
+            "language": null,
+            "last_commit": "2026-02-05T13:09:26Z",
+            "owner": "mlabonne",
+            "repo": "llm-course",
+            "stars": 81956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HF Courses",
+          "description": "HF Courses The Hugging Face course teaches you about applying Transformers to various tasks in natural language processing and beyond.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 395688425,
+            "language": "MDX",
+            "last_commit": "2026-07-06T10:02:48Z",
+            "owner": "huggingface",
+            "repo": "course",
+            "stars": 4147
+          }
+        }
+      ],
+      "title": "AI Course"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bark UI",
+          "description": "Bark UI BarkUI is a Gradio Web UI for text-prompted Generative Audio Model.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 631510634,
+            "language": "Python",
+            "last_commit": "2023-11-23T01:36:07Z",
+            "owner": "C0untFloyd",
+            "repo": "bark-gui",
+            "stars": 687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tiny Diffusion",
+          "description": "Tiny Diffusion Tiny Audio Diffusion is a repository for generating short audio samples and training waveform diffusion models on a consumer-grade GPU with less than 2GB VRAM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 649947225,
+            "language": "Python",
+            "last_commit": "2024-06-06T00:01:04Z",
+            "owner": "crlandsc",
+            "repo": "tiny-audio-diffusion",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Audio WebUI",
+          "description": "Audio WebUI Audio WebUI is a webui for different audio related Neural Networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 636747574,
+            "language": "Python",
+            "last_commit": "2025-05-19T20:04:32Z",
+            "owner": "gitmylo",
+            "repo": "audio-webui",
+            "stars": 1247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whisper.cpp",
+          "description": "Whisper.cpp High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model. Port of OpenAI's Whisper model in C/C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 541269386,
+            "language": "C++",
+            "last_commit": "2026-08-24T10:36:17Z",
+            "owner": "ggml-org",
+            "repo": "whisper.cpp",
+            "stars": 53135
+          }
+        }
+      ],
+      "title": "Audio Gen"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T21:54:43.789Z",
+    "last_updated": "2026-08-24T14:21:21.876Z",
     "original_repository": "openbestof/awesome-ai",
     "original_repository_id": 795905076,
     "original_repository_sha": "f6ac565464d75d3828370b26e912fb769cb02896",
